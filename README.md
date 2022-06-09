@@ -14,7 +14,7 @@
 </a>
   
   </br>
-   <img src ="https://github-readme-stats.vercel.app/api?username={yurockheo}">
+   <img src ="https://github-readme-stats.vercel.app/api?username=yurockheo">
  </p>
 
  <p align="center"> My workspace 💻 </p>
