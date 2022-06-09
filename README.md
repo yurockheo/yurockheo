@@ -52,7 +52,7 @@
         <li>📖 Back End Developer <br> 🗓️ 2022 - moment <br> 📍 <b>Ncor</b> - New Jersey, USA </li>
       </ul>
   <ul>
-          <li>📖 Game Developer <br> 🗓️ 2022 - jun/2022 <br> 📍 Connecticut College - Connecticut, USA </li>
+    <li>📖 Game Developer <br> 🗓️ 2022 - jun/2022 <br> 📍<b>JY Gaming</b> - Connecticut, USA </li>
       </ul>
       <ul>
         <li>📖 Researcher <br> 🗓️ 2020 - 2021 <br> 📍 <b>Connecticut College</b> - Connecticut, USA </li>
