@@ -39,7 +39,7 @@
 <p align="center">
   📬 How to reach me: <a href= "yheo@conncoll.edu">yheo@conncoll.edu</a>
 </p>
-
+</br>
 <p align="center">
   P.S. I also enjoy playing games like League of lengends, Valorant, OW ... and more. </br>So let me know if you want to play together! 😃🎮
 </p>
