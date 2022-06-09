@@ -1,8 +1,8 @@
 
 <h1 align="center" style= "font-size: 50px;"> Hey there 👋 I'm Yurock 👨‍💻 </h1>
 
-  
-  
+<p align= "center"> A Software developer from South Korea. </p>
+
   
 <p align="center">
   <a href="https://www.linkedin.com/in/yurock-heo-8599a3179/">
