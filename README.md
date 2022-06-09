@@ -62,16 +62,16 @@
   
   
     <h2> Experience</h2>
-  <ul>
-    <li>📖 Back-end Developer <br> 🗓️ 2022 - moment <br> 📍 <b>NCOR</b> - New Jersey, USA </li>
-  </ul>
-  <ul>
-      <li>📖 Computer Science and Mathematics <br> 🗓️ 2019 - 2023 <br> 📍 Connecticut College - Connecticut, USA </li>
-  </ul>
-  <ul>
-      <li>📖 Computer Science and Mathematics <br> 🗓️ 2019 - 2023 <br> 📍 Connecticut College - Connecticut, USA </li>
-  </ul>
-  <ul>
-      <li>📖 Computer Science and Mathematics <br> 🗓️ 2019 - 2023 <br> 📍 Connecticut College - Connecticut, USA </li>
-  </ul>
+      <ul>
+        <li>📖 Back-end Developer <br> 🗓️ 2022 - moment <br> 📍 <b>NCOR</b> - New Jersey, USA </li>
+      </ul>
+      <ul>
+          <li>📖 Computer Science and Mathematics <br> 🗓️ 2019 - 2023 <br> 📍 Connecticut College - Connecticut, USA </li>
+      </ul>
+      <ul>
+          <li>📖 Computer Science and Mathematics <br> 🗓️ 2019 - 2023 <br> 📍 Connecticut College - Connecticut, USA </li>
+      </ul>
+      <ul>
+          <li>📖 Computer Science and Mathematics <br> 🗓️ 2019 - 2023 <br> 📍 Connecticut College - Connecticut, USA </li>
+      </ul>
 </details>
