@@ -38,5 +38,5 @@ Proficient Skills 🤹🏼
 </p>
 
 <p align="center">
-📬 Reach me here! yheo@conncoll.edu
+  📬 How to reach me: <a href= "yheo@conncoll.edu">yheo@conncoll.edu</a>
 </p>
