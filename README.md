@@ -12,7 +12,6 @@ Currently improving my web skills: AWS, PHP, Laravel, and MySQL.
 Proficient skills: Python, Java, Matlab, and Unity.
 
 ### Find me else where 🚀
-![image]({https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white})
-<a herf="yurock5000@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
- </a>
+<a href="https://www.linkedin.com/in/yurock-heo-8599a3179/">
+  <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</a>
