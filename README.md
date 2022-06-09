@@ -55,6 +55,6 @@
 <details>
   <summary> Resume 📝 </summary>
   <br>
-    <h1> Education</h1>
-    <h1> Experience</h1>
+    <h2> Education</h2>
+    <h2> Experience</h2>
 </details>
