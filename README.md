@@ -45,6 +45,7 @@
 </p>
 
 <p align="center">
-SODA#11301
+
   <img src ="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Battle.net">
+SODA#11301
 </p>
