@@ -1,6 +1,5 @@
-<p align = "center">
-<h1 style= "font-size: 50px;"> Hi 👋 I'm Yurock 👨‍💻 </h1>
-</p>
+
+<h1 align="center" style= "font-size: 50px;"> Hi 👋 I'm Yurock 👨‍💻 </h1>
 
   
   
