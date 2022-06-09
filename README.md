@@ -1,6 +1,6 @@
-<a style = "text-align:center;">
+<p align = "center">
 <h1 style= "font-size: 50px;"> Hi 👋 I'm Yurock 👨‍💻 </h1>
-  </a>
+</p>
 
   
   
