@@ -52,3 +52,7 @@
  &nbsp    &nbsp IRock#0823
 </p>
 
+<details>
+  <summary> Resume 📝
+    <h1> Education</h1>
+    <h1> Experience</h1>
