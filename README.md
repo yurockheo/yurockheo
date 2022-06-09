@@ -56,5 +56,8 @@
   <summary> Resume 📝 </summary>
   <br>
     <h2> Education</h2>
+    <ul>
+      <li>📖 Computer Science and Mathematics <br> 🗓️ 2019 - 2023 <br> 📍 Connecticut College - Connecticut, USA </li>
+  </ul>
     <h2> Experience</h2>
 </details>
