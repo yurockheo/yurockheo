@@ -39,4 +39,5 @@ Proficient Skills 🤹🏼
 
 <p align="center">
 📬 yheo@conncoll.edu
+📫 yurock5000@gmail.com
 </p>
