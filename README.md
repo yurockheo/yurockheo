@@ -67,8 +67,9 @@
   <summary> P.S. 😸 </summary>
   </p>
 </br>
-
+<p align ="center">
   I also enjoy playing games like League of lengends, Valorant, OW ... and more. </br>So let me know if you want to play together! 😃🎮
+  </p>
 
 
 <p align="center">
