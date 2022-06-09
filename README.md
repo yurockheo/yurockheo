@@ -39,3 +39,13 @@
 <p align="center">
   📬 How to reach me: <a href= "yheo@conncoll.edu">yheo@conncoll.edu</a>
 </p>
+
+<p align="center">
+  P.S. I also enjoy playing games like League of lengends, Valorant, OW ... and more. So let me know if you want to play together! 😃🎮
+</p>
+
+<p align="center">
+<a href="SODA#11301">
+  <img src ="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Battle.net">
+</a>
+</p>
