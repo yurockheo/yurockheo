@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  P.S. I also enjoy playing games like League of lengends, Valorant, OW ... and more. So let me know if you want to play together! 😃🎮
+  P.S. I also enjoy playing games like League of lengends, Valorant, OW ... and more. </br>So let me know if you want to play together! 😃🎮
 </p>
 
 <p align="center">
