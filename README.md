@@ -38,19 +38,7 @@
 
 <p align="center">
   📬 How to reach me: <a href= "yheo@conncoll.edu">yheo@conncoll.edu</a>
-</p>
-</br>
-<p align="center">
-  P.S. I also enjoy playing games like League of lengends, Valorant, OW ... and more. </br>So let me know if you want to play together! 😃🎮
-</p>
 
-<p align="center">
-  <img src ="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Riot Games"> &nbsp <img src ="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Games">
-</p>
-
-<p align="center">SODA#11301
- &nbsp    &nbsp IRock#0823
-</p>
 
 <details>
   <summary> Resume 📝 </summary>
@@ -74,3 +62,21 @@
       </ul>
       
 </details>
+
+<details>
+  <summary> P.S. 😸 </summary>
+  </p>
+</br>
+<p align="center">
+  P.S. I also enjoy playing games like League of lengends, Valorant, OW ... and more. </br>So let me know if you want to play together! 😃🎮
+</p>
+
+<p align="center">
+  <img src ="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="Riot Games"> &nbsp <img src ="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Riot Games">
+</p>
+
+<p align="center">SODA#11301
+ &nbsp    &nbsp IRock#0823
+</p>
+</details>
+
