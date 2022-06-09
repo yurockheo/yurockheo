@@ -53,6 +53,8 @@
 </p>
 
 <details>
-  <summary> Resume 📝
+  <summary> Resume 📝 </summary>
+  <br>
     <h1> Education</h1>
     <h1> Experience</h1>
+</details>
