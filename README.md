@@ -1,7 +1,7 @@
 
 <h1 align="center" style= "font-size: 50px;"> Hey there 👋 I'm Yurock 👨‍💻 </h1>
 
-<p align= "center"> A software engineer and back-end developer from NYC. </p>
+<p align= "center"> A software and back-end developer from NYC. </p>
 
   
 <p align="center">
